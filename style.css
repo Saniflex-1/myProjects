@@ -1,5 +1,5 @@
 .bod{
-    background-color: rgb(241, 101, 7);
+    background: sh(0 0% 100%/0.1);
     display: flex;
     gap: 5px;
     max-width: 500px;
