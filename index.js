@@ -8,7 +8,7 @@ const dd = document.querySelector('.dd')
 
 change.addEventListener('click', function(){
     document.body.style.backgroundColor = 'black';
-    document.body.style.color= 'white'
+    document.body.style.color= 'white';
 });
 
 change1.addEventListener('click', function(){
