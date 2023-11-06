@@ -11,6 +11,7 @@ change.addEventListener('click', function(){
     document.body.style.color= 'white';
 });
 
+
 change1.addEventListener('click', function(){
     document.body.style.backgroundColor = 'green';
     document.body.style.color= 'blue'
